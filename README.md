@@ -8,4 +8,7 @@ Each lab submission should use the following structure:
 ## LAB # X
 
 [View lab result](https://link-to-the-lab-result.example)
+
+### Comentarios de Aprendizaje
+<HOY APRENDI... es requisito para todos los labs>
 ```
